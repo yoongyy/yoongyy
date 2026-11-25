@@ -1,4 +1,4 @@
-# Hi, I'm Yoong
+# Hi, I'm Kenny
 
 I build practical software across AI, automation, e-commerce, and blockchain. This profile is a curated index of my public work.
 
