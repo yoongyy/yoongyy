@@ -21,6 +21,8 @@ I build practical software across AI, automation, e-commerce, and blockchain. Th
 
 ## Blockchain & trading
 
+- [Fourmeme Token Sniper](https://github.com/yoongyy/fourmeme-token-sniper) — Rust tooling for four.meme token monitoring and trading on BNB Chain.
+
 - [Honeybee](https://github.com/yoongyy/honeybee) — DeFi frontend.
 - [Honeybee Contracts](https://github.com/yoongyy/honeybee-contracts) — DeFi smart contracts.
 - [BecoSwap Info API](https://github.com/yoongyy/becoswap-info-api) — Swap information API.
